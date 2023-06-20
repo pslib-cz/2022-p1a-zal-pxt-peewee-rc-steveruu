@@ -7,3 +7,6 @@
 - [x] remote control serial number verification  
 - [x] smooth 'analog-like' wheel turning mechanism  
 - [x] setting the fastest lap time and winning the race  
+\
+\
+![lewis hamitlon](https://i.imgur.com/vs18H26.png)
