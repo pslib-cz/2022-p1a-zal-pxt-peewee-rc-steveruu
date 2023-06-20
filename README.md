@@ -8,6 +8,6 @@
 - [x] smooth 'analog-like' wheel turning mechanism  
 - [x] setting the fastest lap time and winning the race  
 ## Related projects:
-[pxt-peewee-rc-steveruu](https://github.com/pslib-cz/2022-p1a-zal-pxt-peewee-rc-steveruu)    
+[pxt-peewee-autonomous-steveruu](https://github.com/pslib-cz/2022-p1a-zal-pxt-peewee-autonomous-steveruu)    
 [pxt-peewee-remote-steveruu](https://github.com/pslib-cz/2022-p1a-zal-pxt-peewee-remote-steveruu)    
 
