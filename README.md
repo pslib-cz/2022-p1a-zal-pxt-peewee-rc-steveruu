@@ -8,5 +8,5 @@
 - [x] smooth 'analog-like' wheel turning mechanism  
 - [x] setting the fastest lap time and winning the race  
 \
-\  
+\
 ![steveruu](https://i.imgur.com/rnDEFwb.png)
