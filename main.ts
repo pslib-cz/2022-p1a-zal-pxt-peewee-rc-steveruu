@@ -36,7 +36,6 @@ radio.onReceivedString(function (recievedString) {
 
 basic.forever(function () {
     carMotor(instructions[0], instructions[1]);
-    
 })
 
 // microbit: 4e8096
